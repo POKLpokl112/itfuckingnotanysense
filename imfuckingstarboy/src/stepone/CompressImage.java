@@ -15,7 +15,7 @@ import javax.imageio.stream.ImageOutputStream;
 public class CompressImage {
 
 	public static void qqweqwe() {
-
+		System.out.println();
 	}
 
 	public static void qqq(final String filePath) throws IOException {
