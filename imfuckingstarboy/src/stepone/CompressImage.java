@@ -14,6 +14,10 @@ import javax.imageio.stream.ImageOutputStream;
 
 public class CompressImage {
 
+	public static void qqweqwe() {
+
+	}
+
 	public static void qqq(final String filePath) throws IOException {
 		final File file = new File(filePath);
 		for (final File f : file.listFiles()) {
