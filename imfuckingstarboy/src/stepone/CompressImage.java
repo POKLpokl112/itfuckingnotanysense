@@ -16,7 +16,7 @@ public class CompressImage {
 
 	public static void qqweqwe() {
 		System.out.println();
-		System.out.println(1);
+		System.out.println();
 	}
 
 	public static void qqq(final String filePath) throws IOException {
